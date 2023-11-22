@@ -1,3 +1,3 @@
 # Shoping-Website
 
-https://codepen.io/etnad-thunderwood/pen/oNYVLxx
+https://codepen.io/etnad-thunderwood/full/oNYVLxx
